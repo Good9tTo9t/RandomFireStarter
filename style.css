@@ -1,0 +1,24 @@
+body {
+    padding: 60px;
+    text-align: center;
+    background-color:  #3399ff;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    width: 324px;
+    padding: 10px;
+    margin: 5px auto;
+    font-size: 25px;
+    color: #fff;
+    
+    border-width: 10px;
+    border-radius: 50px;
+    background-color: #39f;
+    display: block;
+    
+    cursor: pointer;
+}
